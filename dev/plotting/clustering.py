@@ -19,6 +19,6 @@ legend_elements = [Patch(facecolor='red', edgecolor='r', label='Clusters > 1 pix
                    Patch(facecolor='white', edgecolor='k', label='Single white pixels')]
 
 plt.legend(handles=legend_elements, loc='upper right')
-plt.savefig('../../clusters.png', bbox_inches='tight', pad_inches=0)
+plt.savefig('../../fig/clusters.png', bbox_inches='tight', pad_inches=0)
 plt.show()
 

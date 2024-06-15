@@ -1,0 +1,9 @@
+https://www.mathsisfun.com/definitions/invariant.html
+https://encyclopediaofmath.org/wiki/Invariant
+https://proofwiki.org/wiki/Definition:Dihedral_Group_D4
+https://arxiv.org/pdf/1803.05419
+https://www.deeplearningbook.org/contents/convnets.html
+https://arxiv.org/pdf/2203.06153
+https://www.baeldung.com/cs/translation-invariance-equivariance
+https://dmrocke.ucdavis.edu/Class/EAL205C/Canonical.pdf#:~:text=URL%3A%20https%3A%2F%2Fdmrocke.ucdavis.edu%2FClass%2FEAL205C%2FCanonical.pdf%0AVisible%3A%200%25%20
+https://en.wikipedia.org/wiki/Lexicographic_order
